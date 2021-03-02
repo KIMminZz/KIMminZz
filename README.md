@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 ### Welcome to my github!!
-
+```
+🙌 Hello, my name is Minji Kim
+🏫 I'm student of Gwangju Software Meister high school
+💻 I am becoming a Back-end developer
+```
 
 ### E-mail 💌
 ```
